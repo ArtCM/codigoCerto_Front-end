@@ -1,15 +1,10 @@
 <div markdown="1">
 
-# Desafios Code Explorer
+# Código Certo LP #1
 
-<br>
-Arthur Correa - Desenvolvedor Front-end
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/company/codigocerto/mycompany/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/arthurcorream/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/arthurcoorrea/)
-
-Ver: 0.0.1 - Last update: 06/06/2024
+Ver: 0.0.1 - Last update: 05/07/2024
 
 <br>
 
@@ -19,50 +14,39 @@ Ver: 0.0.1 - Last update: 06/06/2024
 
 # Sobre
 
-Repositório destinado a conclusão dos desáfios porposto no Code Explore da Front-end Fusion. O projeto é um trabalho voluntário sem fins lucrativos, que consiste na colaboração com diversos outros desenvolvedores visando concluir os projetos propostos, aprendendo e compartilhando experiências.
-
-Neste repositório se encontram os 5 desafios na mesma aplicação, cumprindo seus requisitos, sendo eles:
-
-- Pagina de introdução contendo header/footer e um design atrativo.
-- Galeria de imagens em forma de grade ou carrossel com exibição em modal
-- Formulário de contato com validação dos campos, não sendo necessário a função de envio
-- Menu dropdown
-- Tornar a aplicação responsiva
-
-<br>
+Repositório destinado a conclusão dos desáfios porpostos na Código Certo. O projeto é um trabalho voluntário sem fins lucrativos, que consiste na colaboração com diversos outros desenvolvedores visando concluir os projetos propostos, aprendendo e compartilhando experiências.
 
 # Preview:
 
-## [Clique aqui e veja a aplicação](https://code-explore.vercel.app)
+## 
 
 ~~~
 https://code-explore.vercel.app
 ~~~
 
-<img alt="Preview Banner" src="./public/img/preview.png" />
+<!-- <img alt="Preview Banner" src="./public/img/preview.png" /> -->
 
 <br>
 
 # Tecnologias Utilizadas:
 - Node.js v18.17.1
 - React
-- Next 13.2
+- Next 14
 - HTML
 - CSS
 - JavaScript
 - Tailwind.css
 - Git
-- SweetAlert2 (lib)
 ---------
 
 <br>
 
-Inicialização
----------
+# Inicialização
 - Necessário Node.js v18.17.1 ou superior
-- Necessário Next 13.2
-- Rodar o comando `npm i` e `npm start` para instalação dos packages.
+- Necessário Next 14
+- Rodar o comando `npm i` para instalação dos packages.
 - Após, rodar `npm run dev` para inicializar a aplicação.
+  
 ---------
 <br>
 
@@ -81,7 +65,7 @@ Inicialização
 
 # Informações adicionais
 
-- No projeto utilizo o normalize CSS v8.0.1, para promover maior compatibilidade com todos os navegadores, disponível em:
+- No projeto é utilizado o normalize CSS v8.0.1, para promover maior compatibilidade com todos os navegadores, disponível em:
 ~~~
 https://necolas.github.io/normalize.css/
 ~~~
