@@ -3,9 +3,9 @@ import Button from "./button";
 
 const AboutSection = () => {
   return (
-    <section className="flex flex-col md:flex-row items-center justify-between p-8 bg-white">
-      <div className="md:w-1/2 mb-8 md:mb-0">
-        <h2 className="text-3xl font-bold mb-4">
+    <section className="flex flex-col md:flex-row items-center p-8 bg-white">
+      <div className="ml-32 md:w-1/2 mb-8 md:mb-0">
+        <h2 className="text-2xl font-bold mb-4">
           Por que <span className="text-red">escolher a Código Certo</span>?
         </h2>
         <p className="text-black mb-6">
